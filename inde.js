@@ -1,3 +1,0 @@
-hellow
-kapil
-new changes
